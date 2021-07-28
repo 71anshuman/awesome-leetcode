@@ -8,7 +8,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|2|-|-|2|
+|**Accepted**|3|-|-|3|
 
 
 |Question #|Title |Acceptance|Difficulty|
