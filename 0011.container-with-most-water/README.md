@@ -35,5 +35,6 @@ Output: 2
 
 Constraints:
 
-- `1 <= s.length <= 2 * 105`
-- `s` consists only of printable ASCII characters
+- `n == height.length`
+- `2 <= n <= 105`
+- `0 <= height[i] <= 104`
