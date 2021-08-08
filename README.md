@@ -14,6 +14,7 @@
 |Question #|Title |Acceptance|Difficulty|
 |:-:|:-|:-: | :-: |
 |[001](https://leetcode.com/problems/two-sum/)| [Two Sum](https://github.com/71anshuman/awesome-leetcode/tree/main/0001.two-sum)|47.3%|Easy||
+|[002](https://leetcode.com/problems/add-two-numbers/)| [Two Sum](https://github.com/71anshuman/awesome-leetcode/tree/main/0002.add-two-numbers)|46.6%|Medium||
 |[007](https://leetcode.com/problems/reverse-integer/)| [Reverse Integer](https://github.com/71anshuman/awesome-leetcode/tree/main/0007.Reverse-Integer)|26.1%|Easy||
 |[008](https://leetcode.com/problems/string-to-integer-atoi/)| [String to Integer](https://github.com/71anshuman/awesome-leetcode/tree/main/0008.string-to-integer-atoi)|15.9%|Medium||
 |[009](https://leetcode.com/problems/palindrome-number/submissions/)| [Palindrome Number](https://github.com/71anshuman/awesome-leetcode/tree/main/0009.palindrome-number)|50.9%|Easy||
