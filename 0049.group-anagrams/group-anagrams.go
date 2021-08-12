@@ -4,9 +4,9 @@ func groupAnagrams(strs []string) [][]string {
 	hash := make(map[int][]string)
 	var res [][]string
 	for _, str := range strs {
-		enchoded := encodeStr(str)
+		encoded := encodeStr(str)
 
-		hash[enchoded] = append(hash[enchoded], str)
+		hash[encoded] = append(hash[encoded], str)
 	}
 
 	for _, slice := range hash {
